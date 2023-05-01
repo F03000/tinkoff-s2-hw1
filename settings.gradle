@@ -1,0 +1,6 @@
+rootProject.name = 'hw1'
+
+include 'handyman'
+include 'rancher'
+include 'landscape'
+
